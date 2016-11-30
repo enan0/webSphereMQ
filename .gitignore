@@ -1,0 +1,13 @@
+# Directories
+##############
+
+.settings/
+target/
+
+
+# File types
+##############
+*.project
+*.classpath
+*.log
+*.log.*
